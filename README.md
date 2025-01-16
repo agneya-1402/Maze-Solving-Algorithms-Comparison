@@ -44,7 +44,7 @@ The comparison results are visually represented, highlighting the strengths of t
 - Explores paths deeply before backtracking.  
 - Not guaranteed to find the shortest path and may explore unnecessary nodes.  
 
-### **3. A* Algorithm:**  
+### **3. A-star Algorithm:**  
 - Combines the strengths of Dijkstra's algorithm and a heuristic (Manhattan distance).  
 - Optimally balances exploration and pathfinding efficiency.  
 - **Best Performance:** Finds the shortest path with the least computational effort.  
@@ -55,7 +55,7 @@ The comparison results are visually represented, highlighting the strengths of t
 
 ---
 
-## 📈 **Why A* Is the Best Algorithm**  
+## 📈 **Why A-star Is the Best Algorithm**  
 - **Efficiency:** Explores fewer nodes due to its heuristic-driven approach.  
 - **Accuracy:** Always finds the shortest path.  
 - **Scalability:** Performs well even on larger and more complex mazes.  
