@@ -2,7 +2,7 @@
 
 This project showcases a comparison of different pathfinding algorithms for solving mazes. The goal is to evaluate the performance and efficiency of algorithms such as BFS, DFS, A*, and Dijkstra's, ultimately demonstrating why the A* algorithm performs better in most cases.  
 
-![Maze Solving Visualization](path_to_your_image_here)  
+![Maze Solving Visualization](Figure_1.png)  
 
 ## 📋 **Project Overview**  
 The implementation involves solving mazes of varying complexity using:  
